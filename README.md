@@ -41,7 +41,8 @@ Question 5️⃣ ( CornersProblem )
     - Sử dụng các thuật toán tìm kiếm đã làm ở các Question trên để giải quyết bài toán
 Question 6️⃣ ( Corners Problem: Heuristic )
 
-    - Tạo thêm 2 hàm mới findClosestPoint và findFarthesetPoint trả về node gần nhất và xa nhất so với node hiện tại phục vụ cho việc tính toán ở Question #6 và #7
+    - Tạo thêm 2 hàm mới findClosestPoint và findFarthesetPoint trả về node gần nhất và xa nhất so với node hiện tại 
+    (phục vụ cho việc tính toán ở cả câu 6 và câu 7)
     - Mảng unvisitedCorner chứa các góc chưa được đi tới
     - Heuristic = currentToClosest + closestToFarthest
 
